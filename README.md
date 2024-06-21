@@ -49,7 +49,3 @@ Welcome to my GitHub profile! Here you will find various projects and repositori
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
----
-
-_**Note:** The badges used above are generated using [shields.io](https://shields.io/)_
-
